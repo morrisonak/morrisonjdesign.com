@@ -1,6 +1,6 @@
 const siteConfig = {
   details: {
-    title: "Nirmalya Ghosh",
+    title: "Justin Morrison",
     tagLine: "Sofware Developer",
     description:
       "Articles and guides about JavaScript, CSS and Web Development from a software engineer.",

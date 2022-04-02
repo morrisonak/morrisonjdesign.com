@@ -20,7 +20,7 @@ const Jumbotron: FC = () => {
           bgGradient="linear(to-l, #79c2ff, #4a5888)"
           className="jumbotron-name-heading"
         >
-          Nirmalya Ghosh
+          Justin Morrison
         </Heading>
       </Box>
       <Box>
